@@ -13,4 +13,4 @@ touch  research/trials.ipynb
 touch  requiements.txt
 
 
-echo "Directory and files created successfully!." 
+echo "Directory and files created successfully!."  
